@@ -1,0 +1,10 @@
+{
+  "appId": "com.yourname.sudoku",
+  "appName": "Sudoku",
+  "webDir": "www",
+  "backgroundColor": "#f3f2f2",
+  "android": {
+    "backgroundColor": "#f3f2f2",
+    "allowMixedContent": false
+  }
+}
